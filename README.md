@@ -12,6 +12,6 @@ O programa não deve se preocupar com a quantidade de notas existentes na máqui
 
 Existem diversas maneiras de se fazer este programa, vi em outros repositórios várias formas de resolvê-lo, mas não achei nenhuma que se propusesse a apresentar como saída uma resposta igual ou aproximada a solicitada pelo enunciado.
 
-Outra situação recorrente em códigos como este, é que, normalmente, preocupa-se apenas em resolver o problema da estrtutura de código, sem pensar em resolver erros apresentados por entradas incorretas de dados.
+Outra situação recorrente em códigos como este, é que, normalmente, preocupa-se apenas em resolver o problema da estrutura de código, sem pensar em resolver erros apresentados por entradas incorretas de dados.
 
 Meu código tenta mitigar possiveis inputs inadequados, não apresentando apenas a tela de erro e sim que o usuário seja informado que está inserindo dados inconsistentes com a informação solicitada.
